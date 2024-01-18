@@ -1,0 +1,67 @@
+/* Font family */
+*{
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.yellow_tail_font{
+    font-family: Yellowtail;
+}
+
+.dm_serif_font{
+    font-family: 'DM Serif Display';
+}
+
+/* header css prop */
+.rounded-circle{
+    padding: 10px;
+}
+
+.search_icon{
+    position: absolute;
+    top: 10px;
+    right: 5px;
+}
+
+/* Banner Background image */
+.bgimg{
+    background-image: url(/Asset/hero/h1_hero.jpg);
+}
+
+
+.shadow_text{
+    text-shadow: white 2px -2px;
+}
+
+/* latest product property */
+.products{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;  
+}
+/* news letter property */
+.newsLetter{
+    background: url(/Asset/collection/latest-offer.png);
+    height: 250px;
+}
+/* best products banner image property*/
+  .product_bg {
+    background: url(/Asset/categori/card.png);
+    background-size: 100% 83%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+
+  /* footer property */
+  .footer_text{
+    text-decoration: none;
+  }
+
+
+  .footer_title{
+    list-style: none;
+  }
+  /* Model Pictures roperty */
+  .model_card {
+    margin-left: -70px;
+  }
+
